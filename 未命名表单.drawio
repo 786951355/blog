@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-04T07:07:35.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="_dVzPrpJa6nk04b2Fk6p" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-04T07:10:13.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="AcTJtNoAatlWqk2wpk9p" version="12.3.6" type="github" pages="1">
   <diagram id="JOAECc9dolxZvERgOYIs" name="第 1 页">
     <mxGraphModel dx="2502" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,7 +207,7 @@
         <mxCell id="RfoIqtlfHeD6Kl8EGxVd-58" value="&lt;span style=&quot;white-space: normal&quot;&gt;spring cloud config&lt;br&gt;git-gogs&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1480" y="-423" width="100" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="RfoIqtlfHeD6Kl8EGxVd-59" value="SLB+Nginx" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;" vertex="1" parent="1">
+        <mxCell id="RfoIqtlfHeD6Kl8EGxVd-59" value="SLB+Nginx+Ingress Controller" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1660" y="-655" width="100" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="RfoIqtlfHeD6Kl8EGxVd-60" value="nginx&lt;br&gt;redis&lt;br&gt;rabbitmq&lt;br&gt;fluentd" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
